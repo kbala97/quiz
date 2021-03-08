@@ -1,6 +1,8 @@
 import Vue from 'vue'
 import { BootstrapVue} from 'bootstrap-vue'
 
+// Also added this code to GitHub and pushed changes
+
 import App from './App.vue'
 
 // Import Bootstrap and BootstrapVue CSS files (order is important)
