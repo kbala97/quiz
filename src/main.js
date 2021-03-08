@@ -2,6 +2,7 @@ import Vue from 'vue'
 import { BootstrapVue} from 'bootstrap-vue'
 
 // Also added this code to GitHub and pushed changes
+// Let's make another change
 
 import App from './App.vue'
 
